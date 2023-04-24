@@ -36,5 +36,12 @@ This is an investigation and collection of the Segment Anything Model (SAM) on r
 * [🚩Detect & Segment] **Grounded-Segment-Anything** [[**Official repo**](https://github.com/IDEA-Research/Grounded-Segment-Anything)] | [[**Hugging Face**](https://huggingface.co/spaces/IDEA-Research/Grounded-SAM)] | [[**Colab**](https://github.com/camenduru/grounded-segment-anything-colab)]
 * [🚩Part-level Segment] **Grounded Segment Anything: From Objects to Parts** [[**Official repo**](https://github.com/Cheems-Seminar/grounded-segment-any-parts#grounded-segment-anything-from-objects-to-parts)] | [[**Blog**](https://cheems-seminar.github.io/)]
 * [🚩Inpaint] **Inpaint Anything** [[**Official repo**](https://github.com/geekyutao/Inpaint-Anything)] | [[**Paper**](https://arxiv.org/abs/2304.06790)]-Inpaint Anything: Segment Anything Meets Image Inpainting
-* **OpenMMLab Playground**
+* [🚩Relationship] **Relate Anything** [[**Official repo**](https://github.com/Luodian/RelateAnything)] | [[**Hugging Face**](https://huggingface.co/spaces/mmlab-ntu/relate-anything-model)] | [[**Dataset**](https://psgdataset.org/)]
+* [🚩Optical Character Recognition] **OCR-SAM** [[**Official repo**](https://github.com/yeungchenwa/OCR-SAM)] 
+* [**OpenMMLab Playground**](https://github.com/open-mmlab/playground)
+  * [🚩Object Detection] [MMDet-SAM](https://github.com/open-mmlab/playground/blob/main/mmdet_sam)
+  * [🚩Oriented Object Detection] [MMRotate-SAM](https://github.com/open-mmlab/playground/blob/main/mmrotate_sam)
+  * [🚩Optical Character Recognition] [MMOCR-SAM](https://github.com/open-mmlab/playground/blob/main/mmocr_sam)
+  * [🚩Video Editing] [MMEditing-SAM](https://github.com/open-mmlab/playground/blob/main/mmediting_sam)
+  * [🚩Point-to-Label] [Label-Studio-SAM](https://github.com/open-mmlab/playground/tree/main/label_anything)
 
