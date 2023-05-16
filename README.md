@@ -13,8 +13,8 @@ This is an investigation and collection of the Segment Anything Model (SAM) on r
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Introduction](#head1)
 * - [ ] [2. Related Paper](#head2)
-  * - [ ] [Survey](#head-Survey)
-  * - [ ] [2023](#head-2023)
+  * - [ ] [Survey](#headsurvey)
+  * - [ ] [2023](#head2023)
 * - [ ] [3. Related Project](#head3)
   
 ## <span id="head1"> *1.Introduction* </span>
@@ -28,6 +28,12 @@ This is an investigation and collection of the Segment Anything Model (SAM) on r
 > Segment Anything Model (SAM): a new AI model from ***Meta AI*** that can "cut out" any object, in any image, with a ***single click***. SAM is a promptable segmentation system with ***zero-shot*** generalization to unfamiliar objects and images, without the need for additional training.
 
 ## <span id="head2"> *2. Related Paper* </span>
+
+### <span id="headsurvey"> *Survey* </span>
+* **A Comprehensive Survey on Segment Anything Model for Vision and Beyond** [[v1]](https://arxiv.org/abs/2305.08196)(arXiv-2023.05) 
+
+
+### <span id="head2023"> *2023* </span>
 
 ## <span id="head3"> *3. Related Project* </span>
 * [🚩Semantic Segment] **Semantic Segment Anything** [[**Official repo**](https://github.com/fudan-zvg/Semantic-Segment-Anything)] | [[**Web Demo**](https://replicate.com/cjwbw/semantic-segment-anything)]
