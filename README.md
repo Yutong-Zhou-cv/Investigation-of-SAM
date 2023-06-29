@@ -35,6 +35,8 @@ This is an investigation and collection of the Segment Anything Model (SAM) on r
 
 
 ### <span id="head2023"> *2023* </span>
+* (arXiv preprint 2023) **Fast Segment Anything** [[Paper]](https://arxiv.org/abs/2306.12156) [[Code]](https://github.com/CASIA-IVA-Lab/FastSAM) 
+
 
 ## <span id="head3"> *3. Related Project* </span>
 * [🚩Semantic Segment] **Semantic Segment Anything** [[**Official repo**](https://github.com/fudan-zvg/Semantic-Segment-Anything)] | [[**Web Demo**](https://replicate.com/cjwbw/semantic-segment-anything)]
@@ -45,6 +47,7 @@ This is an investigation and collection of the Segment Anything Model (SAM) on r
 * [🚩Inpaint] **Inpaint Anything** [[**Official repo**](https://github.com/geekyutao/Inpaint-Anything)] | [[**Paper**](https://arxiv.org/abs/2304.06790)]-Inpaint Anything: Segment Anything Meets Image Inpainting
 * [🚩Relationship] **Relate Anything** [[**Official repo**](https://github.com/Luodian/RelateAnything)] | [[**Hugging Face**](https://huggingface.co/spaces/mmlab-ntu/relate-anything-model)] | [[**Dataset**](https://psgdataset.org/)]
 * [🚩Optical Character Recognition] **OCR-SAM** [[**Official repo**](https://github.com/yeungchenwa/OCR-SAM)] 
+* [🚩Semantic Segment] **Fast Segment Anything** [[**Official repo**](https://github.com/CASIA-IVA-Lab/FastSAM)] | [[**Hugging Face**](https://huggingface.co/spaces/An-619/FastSAM)]
 * [**OpenMMLab Playground**](https://github.com/open-mmlab/playground)
   * [🚩Object Detection] [MMDet-SAM](https://github.com/open-mmlab/playground/blob/main/mmdet_sam)
   * [🚩Oriented Object Detection] [MMRotate-SAM](https://github.com/open-mmlab/playground/blob/main/mmrotate_sam)
