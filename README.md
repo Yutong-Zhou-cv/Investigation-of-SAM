@@ -32,7 +32,7 @@ This is an investigation and collection of the Segment Anything Model (SAM) on r
 ### <span id="headsurvey"> *Survey* </span>
 * **A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering** [[v1]](https://arxiv.org/abs/2306.06211)(arXiv-2023.06) 
 * **A Comprehensive Survey on Segment Anything Model for Vision and Beyond** [[v1]](https://arxiv.org/abs/2305.08196)(arXiv-2023.05) 
-
+* **Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications** [[v1]](https://arxiv.org/abs/2304.05750v1)(arXiv-2023.04) ... [[v3]](https://arxiv.org/abs/2304.05750)(CVPRW-2023.05) 
 
 ### <span id="head2023"> *2023* </span>
 * (arXiv preprint 2023) **Fast Segment Anything** [[Paper]](https://arxiv.org/abs/2306.12156) [[Code]](https://github.com/CASIA-IVA-Lab/FastSAM) 
